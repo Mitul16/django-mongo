@@ -1,0 +1,15 @@
+[
+    {
+        "from": "dob",
+        "to": {
+            "name": "date_of_birth",
+            "type": "date",
+            "options": null,
+            "mandatory": false
+        }
+    },
+    {
+        "from": "gender",
+        "to": null
+    }
+]

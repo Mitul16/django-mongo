@@ -1,0 +1,5 @@
+name,type,options,mandatory
+username,text,,true
+gender,single_select,"male,female",true
+age,number,,false
+dob,date,,false
